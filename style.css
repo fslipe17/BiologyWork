@@ -1,14 +1,13 @@
 body{
     background: #c5c5c5;
     font-family: Arial, sans-serif;
-    margin: 0px;
+    margin: 0px auto;
     padding: 0;
+    
 }
 
 header{
-
     background: #333;
-    padding: 0px 20;
 }
 
 nav li{
@@ -24,8 +23,12 @@ nav{
 }
 
 .caixa{
+    text-align: center;
+    color: #CCCCCC;
+}
 
-    position: relative;
-    width: 940px;
-    margin: 0 auto;
+.tudo{
+
+    text-align: center;
+    margin: 40px 60px;
 }
